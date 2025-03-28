@@ -1,0 +1,6 @@
+tensorflow
+keras
+contrib nq
+openCV
+numpy
+pandas
